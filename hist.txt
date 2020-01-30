@@ -1,0 +1,17 @@
+Use git init to start an empty repo
+
+Use git add <fileName> to add one file
+
+Use git add . to add a bunch of files
+
+Use git commit -m "message" to commit from staging are to a local repo
+
+Use git log to show history
+
+Use git log --oneline to show a pretty history
+
+Use git config --list to list configured options
+
+Use git config -global user.name <user name> to set my name
+
+Use git config --global user.email <user email> to set my email
