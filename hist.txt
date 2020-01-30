@@ -15,3 +15,5 @@ Use git config --list to list configured options
 Use git config --global user.name <user name> to set my name
 
 Use git config --global user.email <user email> to set my email
+====
+Use git checkout <fileName> if we're typing something wrong
