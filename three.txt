@@ -1,3 +1,0 @@
-Created one file that said "Hello", and committed it.
-
-Created a second file that said "Pony", and have yet to commit.
